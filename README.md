@@ -1,6 +1,6 @@
 Genetic susceptibility loci for cardiovascular disease and their impact on atherosclerotic plaques
 ===========================================================
-[![DOI](https://zenodo.org/badge/259760088.svg)](https://zenodo.org/badge/latestdoi/259760088)
+[![DOI](https://zenodo.org/badge/259761721.svg)](https://zenodo.org/badge/latestdoi/259761721)
 
 #### This readme
 This readme accompanies the paper "Genetic susceptibility loci for cardiovascular disease and their impact on atherosclerotic plaques." by [Van der Laan S.W. *et al*. **Journal 2018**]().
